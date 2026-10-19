@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056985560271",
+    "project_id": "vidcollab",
+    "storage_bucket": "vidcollab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056985560271:android:f6b1f09bbc6a79f4b273ba",
+        "android_client_info": {
+          "package_name": "com.example.vidcollab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkODCA-823wPQPgACai9Ib0vvD7M4pxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056985560271:android:59fcbfe0ad4be9e1b273ba",
+        "android_client_info": {
+          "package_name": "com.example.vidcollabadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwkODCA-823wPQPgACai9Ib0vvD7M4pxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
